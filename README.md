@@ -1,1 +1,2 @@
-This is test github GRGU
+# test-github
+Тестовый репозиторий для изучения git
